@@ -8,7 +8,7 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/esiesen/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -17,7 +17,7 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -37,8 +37,9 @@
       alt="react" width="40" height="40" /> </a>
 
 <br>
+<br>
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data :</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=esinesen&show_icons=true&locale=en&theme=tokyonight"
     alt="esinesen" 
@@ -52,6 +53,9 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esinesen&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="esinesen" /></p>
+  
+<br>
       
 Credit: [esinesen](https://github.com/esinesen)
+<br>
 Last Edited on: 8/10/2022
