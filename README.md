@@ -2,9 +2,9 @@
 
 <br>
 
-- 🌱 I’m currently learning iOS Development and other programming languages.
+- 🌱 I’m currently learning iOS Development.
 
-- 📫 How to reach me **esinesen36@gmail.com**
+- 📫 How to reach me: **esinesen36@gmail.com**
 
 <br>
 
