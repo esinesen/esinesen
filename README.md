@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning iOS Development.
 
-- 📫 How to reach me: **esinesen36@gmail.com**
+- 📫 How to reach me **esinesen36@gmail.com**
 
 <br>
 
-<h3 align="left">Connect with me </h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/esiesen/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -62,4 +62,4 @@
       
 Credit: [esinesen](https://github.com/esinesen)
 <br>
-Last Edited on: 8/10/2022
+Last Edited on: 10/10/2022
