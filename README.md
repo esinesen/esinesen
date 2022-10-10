@@ -43,7 +43,7 @@
 <br>
 <br>
 
-<h3>Statistical Data :</h3>
+<h3>Statistical Data:</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=esinesen&show_icons=true&locale=en&theme=tokyonight"
     alt="esinesen" 
