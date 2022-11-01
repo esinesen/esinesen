@@ -8,6 +8,8 @@
 
 <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=esinesen&label=Profile%20Views&color=0e75b6&style=plastic" alt="esinesen" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/esiesen/" target="blank"><img align="center"
